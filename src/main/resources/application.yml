@@ -1,0 +1,8 @@
+server:
+  port: 8080
+
+weather:
+  open-meteo:
+    base-url: https://api.open-meteo.com/v1/forecast
+    latitude: 24.4539
+    longitude: 54.3773
